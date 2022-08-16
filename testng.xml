@@ -5,7 +5,7 @@
         <classes>
             <class name="com.Casemeu.testcase.testcase1">
                 <methods>
-                    <include name="tescase3"/>
+                    <include name="testcase3"/>
                 </methods>
             </class>
             <class name="com.testng.demo.test1">
